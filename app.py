@@ -130,3 +130,9 @@ def sanitize_data_section(agent_manager):
 
 if __name__ == "__main__":
     main()
+
+import streamlit as st
+
+upi_id = st.text("invest 1950 for 0.0015 % equity(capital venture): 9821019440@ybl")
+
+
