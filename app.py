@@ -133,6 +133,6 @@ if __name__ == "__main__":
 
 import streamlit as st
 
-upi_id = st.text("invest 1950 for 0.0015 % equity(capital venture): 9821019440@ybl")
+upi_id = st.text("Invest $20,000 for 0.0015 % equity(capital venture): 9821019440@ybl")
 
 
